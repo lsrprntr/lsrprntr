@@ -1,7 +1,8 @@
-Hello world!
+<h1>Hello world!</h1>
 
-- 👋 Hi, I’m @lsrprntr
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python,SQL
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me: here
+<p>
+- 👋 Hi, I'm Sam<br />
+- 👀 I'm interested in Python<br />
+- 🌱 I'm currently learning Python and SQL
+</p>
+
