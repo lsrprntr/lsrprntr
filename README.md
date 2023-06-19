@@ -9,9 +9,3 @@ I'm a self-taught programmer with a unique background in finance and accounting.
 Please take a look at my repositories to see what I'm up to!
 
 </p>
-
-<!--https://github.com/lsrprntr?tab=repositories-->
-<!--
-- 🌱 I'm currently learning Python and SQL
-
---->
