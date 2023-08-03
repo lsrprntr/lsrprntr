@@ -4,7 +4,7 @@
 - Currently working on the CS50x course.
 - Future plans to undertake freeCodeCamp front-end side then back-end.
 - Please take a look at my repositories to see what else I'm up to!
-
+  
 <table align="left">
   <tr align="center">
     <th><h3>I'm Familiar with</h3></th>
