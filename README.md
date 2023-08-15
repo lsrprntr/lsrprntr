@@ -1,7 +1,7 @@
 <h1> Hello there! 👋 </h1>
 
 - I'm Sam! I'm a self-taught developer with a unique background in finance and accounting. I have always liked solving problems and there's always problems to solve in software.
-- Currently working on the CS50x course.
+- Currently working on the Kotlin Jetpack Compose pathway.
 - Future plans to undertake freeCodeCamp front-end side then back-end.
 - Please take a look at my repositories to see what else I'm up to!
   
