@@ -1,7 +1,7 @@
 <h1> Hello there! 👋 </h1>
 
 - I'm Sam! I'm a self-taught developer with a unique background in finance and accounting. I have always liked solving problems and there's always problems to solve in software.
-- Currently working on the C# .Net Development.
+- Currently working on the C# .Net Development and Microsoft Azure Fundamentals.
 - Please take a look at my repositories to see what else I'm up to!
   
 <table align="left">
