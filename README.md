@@ -1,13 +1,12 @@
 <h1> Hello there! 👋 </h1>
 
-- I'm Sam! I'm a software developer with a unique background in finance and accounting. I have always liked solving problems and there's always problems to solve in software.
-- Please take a look at my repositories to see what else I'm up to!
+- I'm Sam! I'm a Data Analyst with a background in finance and accounting. I enjoy jigsaw puzzles and other brain teasers! 
+- Currently doing a minute cryptic 🧠
   
 <table align="left">
   <tr align="center">
     <th><h3>I'm Familiar with</h3></th>
     <th><h3>I'm Learning</h3></th>
-    <th><h3>I'm Planning to learn</h3></th>
   </tr>
   <tr align="center">
     <td><!--Familiar with-->
@@ -36,12 +35,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
         <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
-      </p>
-    </td>
-    <td><!--Planning with-->
-      <p>
-        <a href="https://react.dev/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a> 
       </p>
     </td>
   </tr>
